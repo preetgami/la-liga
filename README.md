@@ -1,2 +1,3 @@
 # la-liga
-predict la liga winner
+Predict la liga matches for 2023 season.
+
