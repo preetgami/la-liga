@@ -57,4 +57,4 @@ Neural networks are a class of algorithms that are inspired by the structure and
 
 precision = 0.551
 
-The best model only works 55% of the time. That too when the propbability of a choice is either win or lose( which is 50% regardless). More tweaks need to be done
+The best model only works 55% of the time.
