@@ -56,3 +56,5 @@ Neural networks are a class of algorithms that are inspired by the structure and
 
 
 precision = 0.573
+
+Overall, the best model makes the right predictions about 57.3% of the time. 
