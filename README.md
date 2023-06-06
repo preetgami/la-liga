@@ -23,7 +23,7 @@ Random forest helps pick up non linear trends in data. There is no clear relanti
 Trained on data from previous seasons.
 Tetsed on current season.
 
-accuracy= **60.7%(3sf)**
+**accuracy= 60.7%(3sf)**
 
 ### Improving predictors 
 - Form- current form is important in determining the outcome of next game. so we can leverage this further imporve our model. in this case past 4 games are being used to detemine form
@@ -37,7 +37,7 @@ accuracy= **60.7%(3sf)**
 - Penalty kicks
 - Shots
 
-Improved accuracy= **98.1%(3sf)**
+**Improved accuracy= 98.1%(3sf)**
 
 ### Variable importance plot 
 Made a variable importance plot to determine what factors the random forest model thought were important
@@ -47,12 +47,12 @@ Made a variable importance plot to determine what factors the random forest mode
 ### Lets try a Descion Tree Regressor
 A decision tree might split the data based on the home team's win/loss record, the away team's win/loss record, etc. Each of these splits creates a subset of the data that is more homogeneous in terms of the outcome (win or loss), allowing the tree to make more accurate predictions based on the remaining features
 
-accuracy = **99.7%(3sf)**
+**accuracy = 99.7%(3sf)**
 
 ### Neural Network 
 Neural networks are a class of algorithms that are inspired by the structure and function of the human brain. They can be used for a wide range of tasks, including classification, and have been shown to be effective at predicting winners and losers in various domains. 
 
 
-accuracy = **85.0%(3sf)**
+**accuracy = 85.0%(3sf)**
 
 
