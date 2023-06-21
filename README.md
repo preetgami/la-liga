@@ -2,7 +2,7 @@
 Predict la liga matches for 2023 season.
 
 
--Scrap Web for data( 1249 games ranging from 2021 to 2023 seasons)
+-Scrap Web for data( 1249 games ranging from 2021 to 2023 seasons )
 -Use several models to predict winners
 
 
