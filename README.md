@@ -44,7 +44,7 @@ Made a variable importance plot to determine what factors the random forest mode
 
 
 ## Using other models
-### Lets try a Descion Tree Regressor
+### Lets try a Descion Tree 
 A decision tree might split the data based on the home team's win/loss record, the away team's win/loss record, etc. Each of these splits creates a subset of the data that is more homogeneous in terms of the outcome (win or loss), allowing the tree to make more accurate predictions based on the remaining features
 
 **accuracy = 99.7%(3sf)**
