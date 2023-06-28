@@ -2,8 +2,13 @@
 Predict la liga matches for 2023 season.
 
 
--Scrap Web for data( 1249 games ranging from 2021 to 2023 seasons )
--Use several models to predict winners
+- Scrap Web for data( 1249 games ranging from 2021 to 2023 seasons )
+- Trained a random forest model
+- Improved feature selection
+- Model paramter tuning
+- Varaince importance plot
+- Trained descion tree classifier
+- Trained a neural net
 
 
 ### Predictors for model
@@ -38,6 +43,9 @@ Tetsed on current season.
 - Shots
 
 **Improved accuracy= 98.1%(3sf)**
+After parameter tuning
+**Improved accuracy= 98.7%(3sf)**
+
 
 ### Variable importance plot 
 Made a variable importance plot to determine what factors the random forest model thought were important
